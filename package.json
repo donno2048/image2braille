@@ -1,0 +1,23 @@
+{
+  "name": "@donno2048/image2braille",
+  "version": "1.0.0",
+  "description": "Turn images into braille sequences",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/donno2048/image2braille.git"
+  },
+  "author": "Elisha Hollander <just4now666666@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/donno2048/image2braille/issues"
+  },
+  "homepage": "https://github.com/donno2048/image2braille#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
